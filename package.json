@@ -1,0 +1,17 @@
+{
+  "name": "chaman-knit-kids-order-app",
+  "version": "1.0.0",
+  "description": "Order taking app for Chaman Knit Kids with cart functionality and WhatsApp integration",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'No build process needed for static HTML app'"
+  },
+  "keywords": ["order", "cart", "whatsapp", "pdf", "kids", "clothing"],
+  "author": "Chaman Knit Kids",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
